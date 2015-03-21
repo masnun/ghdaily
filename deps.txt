@@ -1,0 +1,2 @@
+go get -u github.com/PuerkitoBio/goquery
+go get -u gopkg.in/mgo.v2
